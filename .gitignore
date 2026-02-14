@@ -43,3 +43,6 @@ Thumbs.db
 *.zip
 *.tar.gz
 *.7z
+
+*.json
+*.xml
