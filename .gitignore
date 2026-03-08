@@ -1,1 +1,48 @@
+.gitignore file for Java projects
+
+# Maven specific
+target/
+
+# Gradle specific
+build/
+.gradle/
+
+# Eclipse specific
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA specific
+.idea/
+*.iml
+*.iws
+*.ipr
+*.iws
+
+# NetBeans specific
+nbproject/private/
+
+# VS Code specific
 .vscode/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Other files to ignore
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.out
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.7z
+
+*.json
+*.xml
